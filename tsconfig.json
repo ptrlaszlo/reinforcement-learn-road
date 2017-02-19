@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"outFile": "js/compiled.js",
+		"sourceMap": true,
+		"allowJs": true
+	},
+	"include": [
+		"ts/*.ts"
+	]
+	// "files": [
+	// 	"ts/logic.ts"
+	// ]
+}
